@@ -1,3 +1,4 @@
+# NO LONGER SUPPORTING THIS SCRIPT
 # BNDDO_Legendary
 An ambient style legendary animal spawner
 
